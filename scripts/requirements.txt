@@ -1,0 +1,1 @@
+# Menggunakan Python Standard Library (tidak membutuhkan package eksternal)
